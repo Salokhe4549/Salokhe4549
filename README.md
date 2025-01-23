@@ -1,7 +1,6 @@
 Hi 👋, I am Shraddha Shrikant Salokhe
 Computer Science Engineer, From Shivaji University.
-🌱 I’m currently learning  React JS Node JS. and Machine Learning with Python
-Looking to collaborate on Artificial Intelligence Projects.
+🌱 I’m skilled in HTML, CSS, JAVASCRIPT, REACT.Js, JAVA and SQL. 
 📫 How to reach me - salokheshraddha8@gmail.com
 👨‍💻 All of my projects are available at
 <!---
