@@ -1,5 +1,5 @@
 Hi 👋, I am Shraddha Shrikant Salokhe
-Computer Science Student From Shivaji University.
+Computer Science Engineer, From Shivaji University.
 🌱 I’m currently learning  React JS Node JS. and Machine Learning with Python
 Looking to collaborate on Artificial Intelligence Projects.
 📫 How to reach me - salokheshraddha8@gmail.com
